@@ -28,7 +28,7 @@ function About() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg sm:text-xl opacity-80 leading-relaxed">
-            I’m{" "}
+            I am{" "}
             <span className="text-yellow-400 font-bold">SHERI SNEHITH</span>, A 
             passionate Computer Science student with a solid foundation in programming 
             and problem-solving. Skilled in Python, Java, and web development, I focus on 
