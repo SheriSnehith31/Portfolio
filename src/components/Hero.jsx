@@ -16,11 +16,10 @@ function Hero() {
             Hi, I'm Sheri Snehith
           </h1>
           <p className="mt-4 text-lg sm:text-xl opacity-80">
-          I am a dedicated Computer Science student skilled in 
-          Python, Java, C, and web development. I specialize in 
-          building innovative solutions with clean code and efficient 
-          design principles, delivering effective functionality and 
-          seamless user experiences.
+            I am a dedicated Computer Science student skilled in Python, Java, C, 
+            and web development. I specialize in building innovative solutions 
+            with clean code and efficient design principles, delivering effective 
+            functionality and seamless user experiences.
           </p>
           <a
             href="#contact"
