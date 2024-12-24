@@ -30,10 +30,10 @@ function About() {
           <p className="text-lg sm:text-xl opacity-80 leading-relaxed">
             I’m{" "}
             <span className="text-yellow-400 font-bold">SHERI SNEHITH</span>, A 
-            dedicated Computer Science student with a strong foundation in 
-            programming and problem-solving. Skilled in Python, Java, and web development, 
-            I focus on creating efficient and innovative solutions. My passion for technology 
-            drives me to blend creativity and technical expertise to tackle complex challenges
+            passionate Computer Science student with a solid foundation in programming 
+            and problem-solving. Skilled in Python, Java, and web development, I focus on 
+            creating innovative, efficient solutions. My love for technology drives me to 
+            merge creativity and technical expertise in solving complex challenges.
           </p>
 
           {/* Education Section */}
