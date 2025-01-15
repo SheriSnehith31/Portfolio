@@ -17,6 +17,7 @@ function Education() {
           Tech Vision Club
         </a>
       </p>
+      <p className="text-lg font-semibold mt-4">Position: President of Tech Vision Club</p>
     </section>
   );
 }
