@@ -45,6 +45,22 @@ function About() {
             </p>
           </div>
 
+          {/* Position Section */}
+          <div className="mt-6">
+            <h3 className="text-2xl font-semibold text-yellow-400 mb-4">Positions Held</h3>
+            <p className="text-lg">
+              President of{" "}
+              <a
+                href="https://www.instagram.com/techvisionclub/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 underline"
+              >
+                Tech Vision Club
+              </a>
+            </p>
+          </div>
+
           <a
             href="#projects"
             className="inline-block mt-6 px-6 py-3 bg-blue-500 text-white font-medium rounded-lg shadow-lg hover:bg-blue-600 hover:scale-105 transition"
